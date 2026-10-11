@@ -32,4 +32,4 @@ CTE.
 This project helps develop practical SQL skills, understand employee datasets, and solve data analysis questions using Oracle SQL.
 
 **Author**
-Shashank misra
+-Shashank misra
