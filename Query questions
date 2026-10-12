@@ -1,0 +1,23 @@
+----------------Basic----------------------
+1. Display all employees.
+2. Find employees from the IT department.
+3. Find employees earning more than 100,000.
+4. Find employees hired after 2020.
+5. Sort employees by salary from highest to lowest.
+
+----------------Intermediate-----------------
+6. Count total employees.
+7. Find average, maximum, and minimum salary.
+8. Count employees in each department.
+9. Find average salary for each department.
+10. Find departments having more than 2 employees.
+11. Find the highest-paid employee.
+12. Find employees earning above the overall average salary.
+
+--------------------Advanced--------------------
+13. Find the second-highest salary.
+14. Find the highest-paid employee in each department.
+15. Find employees earning more than their department's average salary.
+16. Rank employees by salary within each department.
+17. Find the top 2 highest-paid employees in each department.
+18. Use a CTE to calculate department-wise average salary and filter departments above 100,000.
